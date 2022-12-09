@@ -1,6 +1,5 @@
 import os
 
-
 def check_distro():
 
     global distro
